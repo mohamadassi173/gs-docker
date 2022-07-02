@@ -2,6 +2,9 @@
 # GS Docker
 
 Build a multi-stage image to build and run the project(https://github.com/spring-guides/gs-spring-boot.git). 
+## Required
+- Docker ```sudo apt install docker.io```
+
 
 ## Run Locally
 
